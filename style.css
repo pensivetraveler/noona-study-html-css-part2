@@ -22,7 +22,7 @@
     linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),
     linear-gradient(#eee .1em, transparent .1em);
     background-size: 100% 1.2em;
-    padding: 5% 0 5% 10%;
+    padding: 5% 10%;
 }
 .challenge2 h1 {
     font-family:'Times New Roman', Times, serif;
